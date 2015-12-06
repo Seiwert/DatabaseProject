@@ -1,0 +1,6 @@
+{
+	"get" : [
+		{ "file": "/", "path": "../index.html", "mime": "text/html" }
+	],
+	
+}

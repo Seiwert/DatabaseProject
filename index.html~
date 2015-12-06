@@ -405,7 +405,7 @@
                 function asdf()
                 {
                   $.get("/page1", function(request, response) {
-                    console.log(response);
+                    console.log(response.data);
                   });
                   //handleRequest(request, response);
                   //console.log(response);
